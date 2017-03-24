@@ -3,7 +3,7 @@ PHP library for Qazkom ePay integration
 
 ## Installation
 ```
-$ composer require kolesa-team/qazkom-epay
+$ composer require daniiltserin/qazkom-epay
 ```
 
 ## Basic usage
