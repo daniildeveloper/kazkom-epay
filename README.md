@@ -7,6 +7,7 @@ $ composer require daniiltserin/qazkom-epay
 ```
 
 ## Basic usage
+It is simple
 ```
 $client = new \Epay\Client(array(
     'MERCHANT_CERTIFICATE_ID' => 'merchant certificate id',
